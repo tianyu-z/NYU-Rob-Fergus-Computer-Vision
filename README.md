@@ -1,6 +1,8 @@
 # NYU-Rob-Fergus-Computer-Vision
 This repository contains the projects of the Computer Vision Course taught by Rob Fergus at NYU Courant.
+
 Grade: A/A
+
 Take a glance of what's inside.
 
 ## Assignment 2: The German Traffic Sign Recognition Benchmark
