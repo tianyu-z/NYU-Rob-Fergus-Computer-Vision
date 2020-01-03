@@ -12,3 +12,5 @@ Take a glance of what's inside.
 ## Assignment 3: Aligning images and feature extraction
 
 ![GitHub Logo](/readme_image/Top10SIFT.png)
+
+![GitHub Logo](/readme_image/3Dpoints.png)
