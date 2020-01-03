@@ -16,5 +16,5 @@ Take a glance of what's inside.
 ![GitHub Logo](/readme_image/3Dpoints.png)
 
 
-## Schedule and Content
+## [Schedule and Content](https://cs.nyu.edu/~fergus/teaching/vision/index.html)
 ![GitHub Logo](/readme_image/Schedule.png)
